@@ -33,7 +33,7 @@ python dataloaders/acdc_data_processing.py
 
 3.  Train the model
 ```
-python train_weakly_semi_weakly_supervised.py 
+python train_semi_weakly_supervised.py
 ```
 
 4. Test the model
