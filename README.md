@@ -28,7 +28,6 @@ cd BD-Net
 ```
 2. Data pre-processing or directly [download](https://github.com/HiLab-git/WSL4MIS/tree/main/data/ACDC) the pre-processed data.
 ```
-cd code
 python dataloaders/acdc_data_processing.py
 ```
 
